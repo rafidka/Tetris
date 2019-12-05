@@ -1,0 +1,4 @@
+I coded this Tetris game back in 1999 using C++ and Game Class Library, a library which [my brother](https://github.com/sarmadka) developed using DirectX. The code as it is right now won't compile, as I need to bring the code of Game Class Library. Additionally, the code was developed using VC 6 (if I recall correctly) on Windows 98, so I am not sure it is going to be easy to compile it on a recent version of Windows and Visual Studio. Nevertheless, it is good have it on GitHub. I will update this README if I manage to re-compile the code.
+
+What reminded me of this code, which made its way through multiple hard drives until it finally landed on my Dropbox drive, is that my family members and I recently started playing Tetris on PS4 and, since I am doing machine learning these days, I thought I would try to apply what I learn in Machine Learning on implementing an AI Tetris player :-)
+
